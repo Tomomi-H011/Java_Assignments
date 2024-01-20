@@ -1,2 +1,2 @@
 # Java_Assignments
-Programming assignments for SDEV200-Java course
+Programming assignments for Java course
